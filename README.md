@@ -1,5 +1,6 @@
 # newdatascience
 Can you LEARN DATA SCIENCE for FREE?
+https://www.youtube.com/watch?v=eTxyviU0Ddo&list=WL&index=11&t=0s
 
 Free Data Science learning resources. You can learn data science for nothing. This is a data science learning path. I will add to this list as I discover more content.
 
